@@ -1,0 +1,716 @@
+{
+    "1.1 +WheelDown": [
+        "{PgDn}"
+    ],
+    "2.1 +WheelUp": [
+        "{PgUp}"
+    ],
+    "3.1 #CapsLock": [
+        "^+{Esc}"
+    ],
+    "4.1 !`": [
+        "~"
+    ],
+    "5.4 Tab & WheelDown": [
+        "^{down}"
+    ],
+    "5.3 Tab & WheelDown": [
+        "^{down}"
+    ],
+    "6.4 Tab & WheelUp": [
+        "^{up}"
+    ],
+    "6.3 Tab & WheelUp": [
+        "^{up}"
+    ],
+    "7.3 Tab & Z": [
+        "^l"
+    ],
+    "7.4 Tab & Z": [
+        "!+{NumpadSub}"
+    ],
+    "7.2 Tab & Z": [
+        "{PgDn}"
+    ],
+    "7.1 Tab & Z": [
+        "+{NumpadSub}"
+    ],
+    "8.4 Tab & X": [
+        "!+{NumpadAdd}"
+    ],
+    "8.2 Tab & X": [
+        "+{NumpadAdd}"
+    ],
+    "8.3 Tab & X": [
+        "^+O"
+    ],
+    "9.3 Tab & Space": [
+        "!7"
+    ],
+    "10.1 MButton": [
+        "{enter}"
+    ],
+    "11.3 +MButton": [
+        "^+Y"
+    ],
+    "11.5 +MButton": [
+        "^p"
+    ],
+    "11.1 +MButton": [
+        "^1"
+    ],
+    "12.2 +LButton": [
+        "{right}"
+    ],
+    "12.1 +LButton": [
+        "{down}"
+    ],
+    "13.2 +RButton": [
+        "{left}"
+    ],
+    "13.1 +RButton": [
+        "{up}"
+    ],
+    "14.1 ^MButton": [
+        "^0"
+    ],
+    "14.3 ^MButton": [
+        "^{enter}"
+    ],
+    "14.5 ^MButton": [
+        "^l"
+    ],
+    "15.1 CapsLock & 5": [
+        ""
+    ],
+    "16.4 +Capslock": [
+        "^5"
+    ],
+    "16.1 +Capslock": [
+        "^{PgUp}"
+    ],
+    "17.3 ^Q": [
+        "{del}"
+    ],
+    "17.1 ^Q": [
+        "{del}"
+    ],
+    "18.1 ^!LButton": [
+        "!{left}"
+    ],
+    "19.1 ^!RButton": [
+        "!{right}"
+    ],
+    "20.1 ^+Q": [
+        "{del}"
+    ],
+    "21.3 ^+F": [
+        "!2"
+    ],
+    "22.2 CapsLock & RButton": [
+        "{up}"
+    ],
+    "22.1 CapsLock & RButton": [
+        "{right}"
+    ],
+    "23.2 CapsLock & LButton": [
+        "{down}"
+    ],
+    "23.1 CapsLock & LButton": [
+        "{left}"
+    ],
+    "24.3 +Tab": [
+        "{F7}"
+    ],
+    "24.4 +Tab": [
+        "^2"
+    ],
+    "24.1 +Tab": [
+        "^{PgDn}"
+    ],
+    "25.1 CapsLock & MButton": [
+        "{F2}"
+    ],
+    "26.3 CapsLock & Q": [
+        "!5"
+    ],
+    "27.3 CapsLock & W": [
+        "!6"
+    ],
+    "28.3 CapsLock & F": [
+        "^+5"
+    ],
+    "29.3 CapsLock & S": [
+        "^+1"
+    ],
+    "30.3 CapsLock & A": [
+        "^+4"
+    ],
+    "31.3 CapsLock & G": [
+        "^+3"
+    ],
+    "32.3 CapsLock & D": [
+        "^+~"
+    ],
+    "33.4 CapsLock & `": [
+        "^{end}"
+    ],
+    "33.1 CapsLock & `": [
+        "{end}"
+    ],
+    "34.12x CapsLock": [
+        "#{left}"
+    ],
+    "34.0 CapsLock": [
+        "SetCapsLockState, Off"
+    ],
+    "35.3 Tab & 2": [
+        "^+J"
+    ],
+    "36.32x Tab & S": [
+        "^+N"
+    ],
+    "36.1 Tab & S": [
+        "^+{down}"
+    ],
+    "37.1 Tab & W": [
+        "^+{up}"
+    ],
+    "38.1 Tab & A": [
+        "^+{left}"
+    ],
+    "39.1 Tab & D": [
+        "^+{right}"
+    ],
+    "40.3 Tab & 3": [
+        "^+U"
+    ],
+    "41.4 +`": [
+        "^{home}"
+    ],
+    "41.1 +`": [
+        "{home}"
+    ],
+    "42.1 Tab & Q": [
+        "{Tab}"
+    ],
+    "43.2 Tab & RButton": [
+        "u"
+    ],
+    "43.3 Tab & RButton": [
+        "^{PgDn}"
+    ],
+    "44.2 Tab & LButton": [
+        "v"
+    ],
+    "44.3 Tab & LButton": [
+        "^{PgUp}"
+    ],
+    "45.3 Tab & MButton": [
+        "^p"
+    ],
+    "45.2 Tab & MButton": [
+        "H"
+    ],
+    "45.5 Tab & MButton": [
+        "!+{F12}"
+    ],
+    "46.3 Tab & 1": [
+        "^+K"
+    ],
+    "47.1 Tab & F1": [
+        "+{Tab}"
+    ],
+    "48.1 Tab & F2": [
+        ""
+    ],
+    "49.1 Tab & F3": [
+        ""
+    ],
+    "50.1 Tab & F4": [
+        ""
+    ],
+    "51.1 CapsLock & 6": [
+        ""
+    ],
+    "52.12x Alt": [
+        "#{right}"
+    ],
+    "53.1 !MButton": [
+        "#+{left}"
+    ],
+    "54.0 !CapsLock": [
+        "SetCapsLockState, On"
+    ],
+    "54.1 !CapsLock": [
+        ""
+    ],
+    "55.1 !+LButton": [
+        "^{NumpadAdd}"
+    ],
+    "56.1 !+RButton": [
+        "^{NumpadSub}"
+    ],
+    "57.3 !+MButton": [
+        "!="
+    ],
+    "58.1 `": [
+        "{Backspace}"
+    ],
+    "59.1 ^+!MButton": [
+        "^n"
+    ],
+    "60.4 ^W": [
+        "^L"
+    ],
+    "61.4 Tab & R": [
+        "^+<"
+    ],
+    "62.4 Tab & T": [
+        "^+>"
+    ],
+    "63.3 Tab & 4": [
+        "^+G"
+    ],
+    "64.3 Tab & 5": [
+        "!3"
+    ],
+    "64.1 Tab & 5": [
+        "^l"
+    ],
+    "65.3 Tab & 6": [
+        "!4"
+    ],
+    "65.1 Tab & 6": [
+        "^e"
+    ],
+    "66.3 CapsLock & 1": [
+        "!1"
+    ],
+    "67.1 CapsLock & 2": [
+        ""
+    ],
+    "68.1 CapsLock & 3": [
+        "#{down}"
+    ],
+    "69.1 CapsLock & 4": [
+        "#{up}"
+    ],
+    "70.1 CapsLock & Z": [
+        "{Esc}"
+    ],
+    "70.5 CapsLock & Z": [
+        "^!j"
+    ],
+    "71.3 CapsLock & X": [
+        "^+L"
+    ],
+    "71.2 CapsLock & X": [
+        "+{F4}"
+    ],
+    "71.4 CapsLock & X": [
+        "^+L"
+    ],
+    "71.5 CapsLock & X": [
+        "^!l"
+    ],
+    "72.1 ^+Space": [
+        "^+T"
+    ],
+    "73.1 CapsLock & R": [
+        "!{enter}"
+    ],
+    "74.1 CapsLock & E": [
+        "{F4}"
+    ],
+    "75.4 CapsLock & F1": [
+        "^+{F5}"
+    ],
+    "76.1 CapsLock & F2": [
+        "_"
+    ],
+    "77.6 CapsLock & F3": [
+        ""
+    ],
+    "78.6 CapsLock & F4": [
+        ""
+    ],
+    "79.6 CapsLock & F5": [
+        ""
+    ],
+    "80.6 CapsLock & F6": [
+        ""
+    ],
+    "81.6 CapsLock & F7": [
+        ""
+    ],
+    "82.6 CapsLock & F8": [
+        ""
+    ],
+    "83.6 CapsLock & F9": [
+        ""
+    ],
+    "84.6 CapsLock & F10": [
+        ""
+    ],
+    "85.3 CapsLock & Space": [
+        "^+H"
+    ],
+    "86.1 ^+MButton": [
+        "^{F4}"
+    ],
+    "87.1 !LButton": [
+        "!{enter}"
+    ],
+    "87.5 !LButton": [
+        "!{LButton}"
+    ],
+    "87.3 !LButton": [
+        "^{Backspace}"
+    ],
+    "88.3 ^Space": [
+        "^!v"
+    ],
+    "88.2 ^Space": [
+        "^+I"
+    ],
+    "88.1 ^Space": [
+        "^+N"
+    ],
+    "89.1 ~Alt & ~Tab Up": [
+        "^!{tab}"
+    ],
+    "90.1 Tab Tilde": [
+        "``"
+    ],
+    "91.1 ^x": [
+        "{home}"
+    ],
+    "92.1 ^+X": [
+        "^{home}"
+    ],
+    "93.1 ^!MButton": [
+        "{End}"
+    ],
+    "93.12x ^!MButton": [
+        "^{End}"
+    ],
+    "94.6 CapsLock & F11": [
+        ""
+    ],
+    "95.6 CapsLock & F12": [
+        ""
+    ],
+    "96.1 Tab & F5": [
+        ""
+    ],
+    "97.1 Tab & F6": [
+        ""
+    ],
+    "HOTKEY_1": [
+        "T"
+    ],
+    "HOTKEY_2": [
+        "T"
+    ],
+    "HOTKEY_3": [
+        "T"
+    ],
+    "HOTKEY_4": [
+        "T"
+    ],
+    "HOTKEY_5": [
+        "T"
+    ],
+    "HOTKEY_6": [
+        "T"
+    ],
+    "HOTKEY_7": [
+        "T"
+    ],
+    "HOTKEY_8": [
+        "T"
+    ],
+    "HOTKEY_9": [
+        "T"
+    ],
+    "HOTKEY_10": [
+        "T"
+    ],
+    "HOTKEY_11": [
+        "T"
+    ],
+    "HOTKEY_12": [
+        "T"
+    ],
+    "HOTKEY_13": [
+        "T"
+    ],
+    "HOTKEY_14": [
+        "T"
+    ],
+    "HOTKEY_15": [
+        "T"
+    ],
+    "HOTKEY_16": [
+        "T"
+    ],
+    "HOTKEY_17": [
+        "T"
+    ],
+    "HOTKEY_18": [
+        "T"
+    ],
+    "HOTKEY_19": [
+        "T"
+    ],
+    "HOTKEY_20": [
+        "T"
+    ],
+    "HOTKEY_21": [
+        "T"
+    ],
+    "HOTKEY_22": [
+        "T"
+    ],
+    "HOTKEY_23": [
+        "T"
+    ],
+    "HOTKEY_24": [
+        "T"
+    ],
+    "HOTKEY_25": [
+        "T"
+    ],
+    "HOTKEY_26": [
+        "T"
+    ],
+    "HOTKEY_27": [
+        "T"
+    ],
+    "HOTKEY_28": [
+        "T"
+    ],
+    "HOTKEY_29": [
+        "T"
+    ],
+    "HOTKEY_30": [
+        "T"
+    ],
+    "HOTKEY_31": [
+        "T"
+    ],
+    "HOTKEY_32": [
+        "T"
+    ],
+    "HOTKEY_33": [
+        "T"
+    ],
+    "HOTKEY_34": [
+        "T"
+    ],
+    "HOTKEY_35": [
+        "T"
+    ],
+    "HOTKEY_36": [
+        "T"
+    ],
+    "HOTKEY_37": [
+        "T"
+    ],
+    "HOTKEY_38": [
+        "T"
+    ],
+    "HOTKEY_39": [
+        "T"
+    ],
+    "HOTKEY_40": [
+        "T"
+    ],
+    "HOTKEY_41": [
+        "T"
+    ],
+    "HOTKEY_42": [
+        "T"
+    ],
+    "HOTKEY_43": [
+        "T"
+    ],
+    "HOTKEY_44": [
+        "T"
+    ],
+    "HOTKEY_45": [
+        "T"
+    ],
+    "HOTKEY_46": [
+        "T"
+    ],
+    "HOTKEY_47": [
+        "T"
+    ],
+    "HOTKEY_48": [
+        "T"
+    ],
+    "HOTKEY_49": [
+        "T"
+    ],
+    "HOTKEY_50": [
+        "T"
+    ],
+    "HOTKEY_51": [
+        "T"
+    ],
+    "HOTKEY_52": [
+        "T"
+    ],
+    "HOTKEY_53": [
+        "T"
+    ],
+    "HOTKEY_54": [
+        "T"
+    ],
+    "HOTKEY_55": [
+        "T"
+    ],
+    "HOTKEY_56": [
+        "T"
+    ],
+    "HOTKEY_57": [
+        "T"
+    ],
+    "HOTKEY_58": [
+        "T"
+    ],
+    "HOTKEY_59": [
+        "T"
+    ],
+    "HOTKEY_60": [
+        "T"
+    ],
+    "HOTKEY_61": [
+        "T"
+    ],
+    "HOTKEY_62": [
+        "T"
+    ],
+    "HOTKEY_63": [
+        "T"
+    ],
+    "HOTKEY_64": [
+        "T"
+    ],
+    "HOTKEY_65": [
+        "T"
+    ],
+    "HOTKEY_66": [
+        "T"
+    ],
+    "HOTKEY_67": [
+        "T"
+    ],
+    "HOTKEY_68": [
+        "T"
+    ],
+    "HOTKEY_69": [
+        "T"
+    ],
+    "HOTKEY_70": [
+        "T"
+    ],
+    "HOTKEY_71": [
+        "T"
+    ],
+    "HOTKEY_72": [
+        "T"
+    ],
+    "HOTKEY_73": [
+        "T"
+    ],
+    "HOTKEY_74": [
+        "T"
+    ],
+    "HOTKEY_75": [
+        "T"
+    ],
+    "HOTKEY_76": [
+        "T"
+    ],
+    "HOTKEY_77": [
+        "T"
+    ],
+    "HOTKEY_78": [
+        "T"
+    ],
+    "HOTKEY_79": [
+        "T"
+    ],
+    "HOTKEY_80": [
+        "T"
+    ],
+    "HOTKEY_81": [
+        "T"
+    ],
+    "HOTKEY_82": [
+        "T"
+    ],
+    "HOTKEY_83": [
+        "T"
+    ],
+    "HOTKEY_84": [
+        "T"
+    ],
+    "HOTKEY_85": [
+        "T"
+    ],
+    "HOTKEY_86": [
+        "T"
+    ],
+    "HOTKEY_87": [
+        "T"
+    ],
+    "HOTKEY_88": [
+        "T"
+    ],
+    "HOTKEY_89": [
+        "T"
+    ],
+    "HOTKEY_90": [
+        "T"
+    ],
+    "HOTKEY_91": [
+        "T"
+    ],
+    "HOTKEY_92": [
+        "T"
+    ],
+    "HOTKEY_93": [
+        "T"
+    ],
+    "HOTKEY_94": [
+        "T"
+    ],
+    "HOTKEY_95": [
+        "T"
+    ],
+    "HOTKEY_96": [
+        "T"
+    ],
+    "HOTKEY_97": [
+        "T"
+    ],
+    "CONDITIONAL_2": [
+        "AcrobatSDIWindow"
+    ],
+    "CONDITIONAL_3": [
+        "XLMAIN"
+    ],
+    "CONDITIONAL_4": [
+        "OpusApp"
+    ],
+    "CONDITIONAL_5": [
+        "Chrome_WidgetWin_1"
+    ],
+    "MinStart_S": [
+        "T"
+    ]
+}
