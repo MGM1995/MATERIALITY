@@ -6,6 +6,7 @@ from ConditionalStringsOptions import Ui_A2Window
 from PyQt5.QtGui import QKeySequence
 import qtmodern.styles
 import qtmodern.windows
+import subprocess
 from PyQt5.QtCore import pyqtSignal
 
 
@@ -101,10 +102,11 @@ class ConditionalStringsOptionsBackend(QMainWindow, Ui_A2Window):
     
     def StartAH(self):
         try:
-            os.startfile(f"{basedir}\WindowSpy.ahk")
+            autohotkey_exe = f"{basedir}\\ahk\\AutoHotkey\\AutoHotkey.exe"
+            script_file = f"{basedir}\\WindowSpy.ahk"
+            subprocess.Popen([autohotkey_exe, script_file])
         except Exception:
             return
-
 
 
 
